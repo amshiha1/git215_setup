@@ -86,3 +86,6 @@ footer{
 li{
 	text-align: center;
 }
+li::marker{
+	text-align: center;
+}
