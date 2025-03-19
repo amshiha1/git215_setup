@@ -68,7 +68,7 @@ h2{
 	text-align: center;
 }
 
-p, main ul, address{
+p, main ul, address, ul{
 	max-width: 65ch;
 	margin: 16px auto;
 }
