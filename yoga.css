@@ -83,3 +83,12 @@ footer{
 	font-style: italic;
 	text-align: center;
 }
+<<<<<<< HEAD
+=======
+li{
+	margin: 16px auto;
+}
+li::marker{
+	text-align: center;
+}
+>>>>>>> b641e9beaae6776cb9f2bcfbbcfabfe1aaa115ac
