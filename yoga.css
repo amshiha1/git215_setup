@@ -84,7 +84,7 @@ footer{
 	text-align: center;
 }
 li{
-	text-align: center;
+	margin: 16px auto;
 }
 li::marker{
 	text-align: center;
